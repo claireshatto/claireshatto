@@ -1,4 +1,4 @@
-# hello-world
+# Claire Shatto
 This is my First GitHub Page Repository
-Claire Shatto
+
 
